@@ -1,4 +1,4 @@
-# Movie App
+# Code up
 
 <p align="center">
   <img alt='Screenshot 1' src="assets/screenshot1.png" width="40%"/>
